@@ -1,7 +1,7 @@
 # Starter Web project
 This is a simple project for git
 ##Introduction
-
+this is example for readme
 ## Purpose
 
 ##Deployment
