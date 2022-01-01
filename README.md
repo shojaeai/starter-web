@@ -1,5 +1,5 @@
 # Starter Web project
-
+This is a simple project for git
 ##Introduction
 
 ## Purpose
