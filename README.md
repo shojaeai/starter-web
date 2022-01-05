@@ -9,7 +9,7 @@ this is deployment
 ## how to contribute
 please fork this repository
 ### Copyright
-
+all right reserved
 git copyright
 
 Sample website with plenty of files for demos
