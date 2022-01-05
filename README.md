@@ -1,5 +1,5 @@
 # Starter Web project
-This is a simple project for git
+This is a simple project for git, adding a line for rebasing example
 ##Introduction
 this is example for readme
 ## Purpose
