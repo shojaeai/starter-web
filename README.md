@@ -1,5 +1,5 @@
 # Starter Web project
-This is a simple project for git, adding a line for rebasing example
+This is a simple project for git, adding a line for rebasing example. more changes from my feature branch too
 ##Introduction
 this is example for readme
 ## Purpose
